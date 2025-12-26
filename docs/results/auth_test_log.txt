@@ -1,0 +1,11 @@
+[INFO] Starting Appium session...
+[INFO] Launching app com.laza.app
+[INFO] Finding element by accessibility id: "Login"
+[INFO] Clicked Login button
+[INFO] Finding element by xpath: //EditText[@text="Email Address"]
+[INFO] Typing "test@laza.com"
+[INFO] Finding element by xpath: //EditText[@text="Password"]
+[INFO] Typing "******"
+[INFO] Clicked Login Submit
+[SUCCESS] Home Screen Title Found.
+[INFO] Session closed.
